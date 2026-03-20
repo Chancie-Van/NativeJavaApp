@@ -113,3 +113,7 @@ git push origin v1.0.1
 When ready to bump the version, remember to update the version number in **two** places to keep everything in sync:
 - The Git Tag (the v1.0.1 above).
 - The **app.version** property at the top of `build.xml`. This ensures that when the user installs the app, the OS sees the correct version number in the "About" or "Get Info" screens.
+
+---
+## Project Website
+https://metrocs.github.io/NativeJavaApp/
